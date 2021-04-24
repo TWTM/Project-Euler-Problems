@@ -1,5 +1,8 @@
 import time
 import math
+
+# Oi Lucas
+
 # PROBLEM 1
 
 
